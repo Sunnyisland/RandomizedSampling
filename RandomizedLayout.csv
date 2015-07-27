@@ -1,0 +1,25 @@
+,1,2,3,4,5,6,7,8,9,10,11
+B,Compound A,Lidocaine,DMSO,0,0,DMSO,Blebbistatin,Lidocaine,Isoproterenol,0,0
+C,Compound C,0,0,Epinephrine,Compound A,Lidocaine,Compound C,Compound A,Compound C,Compound A,0
+D,0,Isoproterenol,Compound C,Blebbistatin,Compound C,0,Epinephrine,0,DMSO,Lidocaine,Isoproterenol
+E,0,Water,Lidocaine,0,0,0,0,0,Blebbistatin,Water,Blebbistatin
+F,Blebbistatin,0,Compound C,Isoproterenol,Blebbistatin,Compound A,0,0,Epinephrine,Compound A,Isoproterenol
+G,Isoproterenol,Water,Epinephrine,Lidocaine,0,0,0,Epinephrine,0,0,Epinephrine
+"
+"
+Isoproterenol
+B9,D2,D11,F4,F11,G1
+Blebbistatin
+B7,D4,E9,E11,F1,F5
+Epinephrine
+C4,D7,F9,G3,G8,G11
+Water
+E2,E10,G2
+Lidocaine
+B2,B8,C6,D10,E3,G4
+DMSO
+B3,B6,D9
+Compound A
+B1,C5,C8,C10,F6,F10
+Compound C
+C1,C7,C9,D3,D5,F3
